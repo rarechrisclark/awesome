@@ -12,7 +12,7 @@ Everything that is worth saving for a rainy day.
 - [Parts Collections](#parts---collections)
 - [Parts Individual](#parts---individual)
 - [Camping Stuff](#camping-stuff)
-- [Articles](#articles-)
+- [Resources](#resources)
 
 ## Forums
 
@@ -20,6 +20,7 @@ Everything that is worth saving for a rainy day.
 - [LandRoverWorld.org](https://www.landroverworld.org/whats-new/)
 - [LandyZone.co.uk](https://www.landyzone.co.uk/forum)
 - [LR4x4](https://forums.lr4x4.com)
+- [LR UK](https://www.lrukforums.com)
 
 ## Parts - Collections
 
@@ -67,6 +68,7 @@ Everything that is worth saving for a rainy day.
 - [ARB Hanging Organiser](https://www.arb.com.au/camping-touring-accessories/hanging-organiser/)
 - [1Map - Application for route creation](https://1map.com/)
 
-## Articles
+## Resources
 
+- [Land Rover Archive Auto Catalogue](https://autocatalogarchive.com/land-rover/?page_id=16919)
 - [Buying Guide: Discovery 1](https://www.landrovermonthly.co.uk/articles/buying-guides/buying-guide-discovery-1/)
